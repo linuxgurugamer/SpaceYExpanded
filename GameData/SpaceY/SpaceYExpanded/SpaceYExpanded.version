@@ -1,21 +1,20 @@
 {
 	"NAME"			 : "SpaceY Expanded (SYX) by NecroBones (aka Orvidius)",
-	"URL"            : "https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/SpaceYExpanded.version",
-	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/SpaceYExpanded/master/changelog.md",
-	"DOWNLOAD"       : "http://spacedock.info/mod/89",
-	"DOWNLOAD"       : "https://github.com/zer0Kerbal/SpaceYExpanded/releases/latest",
+	"URL"            : "https://raw.githubusercontent.com/linuxgurugamer/SpaceYExpanded/master/SpaceYExpanded.version",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/linuxgurugamer/SpaceYExpanded/master/Changelog-LGG.txt",
+	"DOWNLOAD"       : "https://github.com/linuxgurugamer/SpaceYExpanded/releases/latest",
 	"GITHUB" :
 	{
-		"USERNAME"		    : "zer0Kerbal",
+		"USERNAME"		    : "linuxgurugamer",
 		"REPOSITORY"		: "SpaceYExpanded",
 		"ALLOW_PRE_RELEASE" : false
 	},
 	"VERSION" :
 	{
-		"MAJOR" : 1,
-		"MINOR" : 4,
-		"PATCH" : 99,
-		"BUILD" : 3
+		"MAJOR" : 2,
+		"MINOR" : 0,
+		"PATCH" : 0,
+		"BUILD" : 0
 	},
 	"KSP_VERSION" :
 	{
@@ -26,8 +25,14 @@
 	"KSP_VERSION_MIN" :
 	{
 		"MAJOR" : 1,
-		"MINOR" : 3,
-		"PATCH" : 1
+		"MINOR" : 12,
+		"PATCH" : 0
+	},
+	"KSP_VERSION_MAX" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 12,
+		"PATCH" : 99
 	},
 	"INSTALL_LOC" :
 	{
