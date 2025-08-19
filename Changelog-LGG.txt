@@ -5,4 +5,7 @@ Changelog
 	Fixed Variants.cfg to properly patch the tanks with the partvariants
 	Fixed typo in the 10m stack separator
 
+2.0.0.1
+	Fixed error in ghostparts.cfg which were preventing parts beginning
+	with syx from being cloned
 	
