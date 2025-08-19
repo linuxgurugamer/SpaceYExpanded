@@ -9,3 +9,8 @@ Changelog
 	Fixed error in ghostparts.cfg which were preventing parts beginning
 	with syx from being cloned
 	
+2.0.0.2
+	Fixed 3 engines which had the wrong oldName field:
+		syx-eng-750-E4
+		syx-eng-750-E2
+		syx-eng-375-E1
