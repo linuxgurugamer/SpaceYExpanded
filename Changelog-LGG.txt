@@ -14,6 +14,10 @@ Changelog
 		syx-eng-750-E4
 		syx-eng-750-E2
 		syx-eng-375-E1
-		
+
 2.0.0.3
+	Thanks to github user for this:
+		Fixed KGXSupport and KGXH2Ow tank types not found
+
+2.0.0.4
 	Adjusted the default mass, dry cost, liquid fuel/oxidizer values based on actual volume
