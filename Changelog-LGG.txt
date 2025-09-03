@@ -21,3 +21,7 @@ Changelog
 
 2.0.0.4
 	Adjusted the default mass, dry cost, liquid fuel/oxidizer values based on actual volume
+
+2.0.0.5
+	Fixed ModuleManager syntax for Tweakscale to use % instead of @ 
+	Adjusted the B9PartSwitch.cfg to have LFO as the first/default subtype, and put the structural as the last
