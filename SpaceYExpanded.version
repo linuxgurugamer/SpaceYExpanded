@@ -1,20 +1,20 @@
 {
-	"NAME"			 : "SpaceY Expanded (SYX) by NecroBones (aka Orvidius)",
-	"URL"            : "https://raw.githubusercontent.com/linuxgurugamer/SpaceYExpanded/master/SpaceYExpanded.version",
-	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/linuxgurugamer/SpaceYExpanded/master/Changelog-LGG.txt",
-	"DOWNLOAD"       : "https://github.com/linuxgurugamer/SpaceYExpanded/releases/latest",
+	"NAME" : 			"SpaceY Expanded (SYX) by NecroBones (aka Orvidius)",
+	"URL" : 			"https://raw.githubusercontent.com/linuxgurugamer/SpaceYExpanded/master/SpaceYExpanded.version",
+	"CHANGE_LOG_URL" :	"https://raw.githubusercontent.com/linuxgurugamer/SpaceYExpanded/master/Changelog-LGG.txt",
+	"DOWNLOAD" : 		"https://github.com/linuxgurugamer/SpaceYExpanded/releases/latest",
 	"GITHUB" :
 	{
-		"USERNAME"		    : "linuxgurugamer",
-		"REPOSITORY"		: "SpaceYExpanded",
-		"ALLOW_PRE_RELEASE" : false
+		"USERNAME" : 		"linuxgurugamer",
+		"REPOSITORY" : 		"SpaceYExpanded",
+		"ALLOW_PRE_RELEASE" : 	false
 	},
 	"VERSION" :
 	{
 		"MAJOR" : 2,
 		"MINOR" : 0,
 		"PATCH" : 0,
-		"BUILD" : 2
+		"BUILD" : 3
 	},
 	"KSP_VERSION" :
 	{
