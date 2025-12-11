@@ -25,3 +25,8 @@ Changelog
 2.0.0.5
 	Fixed ModuleManager syntax for Tweakscale to use % instead of @ 
 	Adjusted the B9PartSwitch.cfg to have LFO as the first/default subtype, and put the structural as the last
+
+2.0.0.6
+	Removed the SpaceY.Expanded.dll as not being needed
+	Removed files under a restricted license added by @zer0kerbal
+	Removed the ghostparts.cfg, now being handled by same file in main SpaceY mod
