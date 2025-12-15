@@ -30,3 +30,15 @@ Changelog
 	Removed the SpaceY.Expanded.dll as not being needed
 	Removed files under a restricted license added by @zer0kerbal
 	Removed the ghostparts.cfg, now being handled by same file in main SpaceY mod
+
+2.0.0.7 (unreleased)
+	Removed unnecessary :FOR[SpaceYExpanded] clauses in the patches
+	Thanks to @JadeOfMaar for these updates:
+	Rebalanced engines.
+		Varied changes to mass, cost and thrust with slights ups and downs to TWR.
+		Standardized Isp curves.
+	Updated CryoEngines config. Penguin series engines stop being dual-mode and become purebred Hydrolox engines.
+	Added VAB Organizer support.
+	Fixed bulkhead profile mismatches.
+	Localized all tags
+	Removed broken MM script:  SpaceYExpanded.cfg
