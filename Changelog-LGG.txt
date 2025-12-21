@@ -31,7 +31,7 @@ Changelog
 	Removed files under a restricted license added by @zer0kerbal
 	Removed the ghostparts.cfg, now being handled by same file in main SpaceY mod
 
-2.0.1 (unreleased)
+2.0.1 
 	Removed unnecessary :FOR[SpaceYExpanded] clauses in the patches
 	Localized all tags
 	Removed broken MM script:  SpaceYExpanded.cfg
