@@ -48,3 +48,7 @@ Changelog
 2.0.2
 	Fixed the CryoEngine patch for the 3 penguin engines to show plumes
 	Added support for Waterfall with a patch for the engines
+
+2.0.2.1
+	Thanks to github user @minchinweb for this:
+		Fixed typo on the syx-tank-750-cone-1.cfg to fix FuelVolume (was 10x what it should have been)
