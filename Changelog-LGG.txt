@@ -52,3 +52,7 @@ Changelog
 2.0.2.1
 	Thanks to github user @minchinweb for this:
 		Fixed typo on the syx-tank-750-cone-1.cfg to fix FuelVolume (was 10x what it should have been)
+
+2.0.2.2
+	Put the sounds back which were being removed by the Waterfall patch
+	Adjusted some positions of the Waterfall effects
